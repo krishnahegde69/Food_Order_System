@@ -1,6 +1,6 @@
 # Sigma
 
-This project is created using html,php,jQuery.
+This project is created using html, php, jQuery, Javascript.
 
 User(Customer) should login before ordering. To login, user should have an existing account or else he/she can create a new account.
 Whatever the items selected by the customer will be added to the cart for generating the bill.
